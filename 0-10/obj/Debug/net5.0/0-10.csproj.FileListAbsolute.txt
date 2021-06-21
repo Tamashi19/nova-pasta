@@ -1,0 +1,16 @@
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\bin\Debug\net5.0\0-10.exe
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\bin\Debug\net5.0\0-10.deps.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\bin\Debug\net5.0\0-10.runtimeconfig.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\bin\Debug\net5.0\0-10.runtimeconfig.dev.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\bin\Debug\net5.0\0-10.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\bin\Debug\net5.0\ref\0-10.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\bin\Debug\net5.0\0-10.pdb
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\obj\Debug\net5.0\0-10.csprojAssemblyReference.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\obj\Debug\net5.0\0-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\obj\Debug\net5.0\0-10.AssemblyInfoInputs.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\obj\Debug\net5.0\0-10.AssemblyInfo.cs
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\obj\Debug\net5.0\0-10.csproj.CoreCompileInputs.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\obj\Debug\net5.0\0-10.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\obj\Debug\net5.0\ref\0-10.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\obj\Debug\net5.0\0-10.pdb
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\0-10\obj\Debug\net5.0\0-10.genruntimeconfig.cache
