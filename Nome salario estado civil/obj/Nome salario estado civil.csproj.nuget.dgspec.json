@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tathy\\Documents\\Nova pasta\\nova-pasta\\nome d senha\\nome d senha.csproj": {}
+    "C:\\Users\\Tathy\\Documents\\Nova pasta\\nova-pasta\\Nome salario estado civil\\Nome salario estado civil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tathy\\Documents\\Nova pasta\\nova-pasta\\nome d senha\\nome d senha.csproj": {
+    "C:\\Users\\Tathy\\Documents\\Nova pasta\\nova-pasta\\Nome salario estado civil\\Nome salario estado civil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tathy\\Documents\\Nova pasta\\nova-pasta\\nome d senha\\nome d senha.csproj",
-        "projectName": "nome d senha",
-        "projectPath": "C:\\Users\\Tathy\\Documents\\Nova pasta\\nova-pasta\\nome d senha\\nome d senha.csproj",
+        "projectUniqueName": "C:\\Users\\Tathy\\Documents\\Nova pasta\\nova-pasta\\Nome salario estado civil\\Nome salario estado civil.csproj",
+        "projectName": "Nome salario estado civil",
+        "projectPath": "C:\\Users\\Tathy\\Documents\\Nova pasta\\nova-pasta\\Nome salario estado civil\\Nome salario estado civil.csproj",
         "packagesPath": "C:\\Users\\Tathy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tathy\\Documents\\Nova pasta\\nova-pasta\\nome d senha\\obj\\",
+        "outputPath": "C:\\Users\\Tathy\\Documents\\Nova pasta\\nova-pasta\\Nome salario estado civil\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tathy\\AppData\\Roaming\\NuGet\\NuGet.Config"

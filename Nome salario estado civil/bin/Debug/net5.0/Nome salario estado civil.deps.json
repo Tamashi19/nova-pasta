@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Nome salario estado civil/1.0.0": {
+        "runtime": {
+          "Nome salario estado civil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nome salario estado civil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

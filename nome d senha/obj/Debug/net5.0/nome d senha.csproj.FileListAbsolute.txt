@@ -14,3 +14,19 @@ C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\nome d senha\obj\Debug\net5.0
 C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\nome d senha\obj\Debug\net5.0\ref\nome d senha.dll
 C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\nome d senha\obj\Debug\net5.0\nome d senha.pdb
 C:\Users\PRF\Desktop\Tamashi\Nova pasta\Nova pasta\nome d senha\obj\Debug\net5.0\nome d senha.genruntimeconfig.cache
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\bin\Debug\net5.0\nome d senha.exe
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\bin\Debug\net5.0\nome d senha.deps.json
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\bin\Debug\net5.0\nome d senha.runtimeconfig.json
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\bin\Debug\net5.0\nome d senha.runtimeconfig.dev.json
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\bin\Debug\net5.0\nome d senha.dll
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\bin\Debug\net5.0\ref\nome d senha.dll
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\bin\Debug\net5.0\nome d senha.pdb
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\obj\Debug\net5.0\nome d senha.csprojAssemblyReference.cache
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\obj\Debug\net5.0\nome d senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\obj\Debug\net5.0\nome d senha.AssemblyInfoInputs.cache
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\obj\Debug\net5.0\nome d senha.AssemblyInfo.cs
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\obj\Debug\net5.0\nome d senha.csproj.CoreCompileInputs.cache
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\obj\Debug\net5.0\nome d senha.dll
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\obj\Debug\net5.0\ref\nome d senha.dll
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\obj\Debug\net5.0\nome d senha.pdb
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\nome d senha\obj\Debug\net5.0\nome d senha.genruntimeconfig.cache

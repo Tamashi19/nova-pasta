@@ -1,0 +1,16 @@
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\obj\Debug\net5.0\Nome salario estado civil.csprojAssemblyReference.cache
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\obj\Debug\net5.0\Nome salario estado civil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\obj\Debug\net5.0\Nome salario estado civil.AssemblyInfoInputs.cache
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\obj\Debug\net5.0\Nome salario estado civil.AssemblyInfo.cs
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\obj\Debug\net5.0\Nome salario estado civil.csproj.CoreCompileInputs.cache
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\bin\Debug\net5.0\Nome salario estado civil.exe
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\bin\Debug\net5.0\Nome salario estado civil.deps.json
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\bin\Debug\net5.0\Nome salario estado civil.runtimeconfig.json
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\bin\Debug\net5.0\Nome salario estado civil.runtimeconfig.dev.json
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\bin\Debug\net5.0\Nome salario estado civil.dll
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\bin\Debug\net5.0\ref\Nome salario estado civil.dll
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\bin\Debug\net5.0\Nome salario estado civil.pdb
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\obj\Debug\net5.0\Nome salario estado civil.dll
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\obj\Debug\net5.0\ref\Nome salario estado civil.dll
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\obj\Debug\net5.0\Nome salario estado civil.pdb
+C:\Users\Tathy\Documents\Nova pasta\nova-pasta\Nome salario estado civil\obj\Debug\net5.0\Nome salario estado civil.genruntimeconfig.cache
